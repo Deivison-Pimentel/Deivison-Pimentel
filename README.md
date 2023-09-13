@@ -4,7 +4,7 @@
 
 
 ## Welcome! My name is Deivison Pimentel
-React JS | Node JS | Javascript | HTML | CSS | Typescript | Java 
+ Javascript | HTML | CSS | Python 
 - 🎓 Systems Analysis and Development Student
 - 💻 I will be a future software engineer
 -    technology enthusiast, passionate about development
